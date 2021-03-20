@@ -1,77 +1,75 @@
 # so1um 0.4
 
-## Create your hero.
+# Crea il tuo eroe.
 
-Roll 3d6 each for **Body** (*physical prowess & health*), **Mind** (*mental capacity & intelligence*), **Soul** (*spirit & willpower*). Each starts at 1 and each even number rolled is a +1. To generate Hit Points, roll 3d6, count the evens and add this to Body score (monsters use Body equals Hit Points). Characters begin with one cliché, roll 3d6, and gain one cliché for each even number rolled. If you wish, flesh out a background, looks, quirks, etc. Be creative and stuff.
+Tira 3d6 ciascuno per **Fisico** (*abilità fisiche e salute*), **Mente** (*capacità mentale e intelligenza*), **Anima** (*spirito e forza di volontà*). Ciascuno parte da 1 e ogni numero pari ottenuto è un +1. I Punti Ferita sono uguali alla somma dei punteggi di tutte le Statistiche. Per generare Punti Ferita, tira 3d6, conta i pari e aggiungili al punteggio del Corpo (i mostri usano Fisico uguale a i Punti Ferita). I personaggi iniziano con un cliché, tira 3d6 e ottieni un cliché per ogni numero pari ottenuto. Se lo desideri, arricchisci con un pregresso, l'aspetto, le stranezze, ecc. Sii creativo e cose del genere.
 
-## Determine goals & the first scene.
+## Determina gli obiettivi e imposta la prima scena.
 
-Figure out why your character is there and where in the story they are. *Are you plundering a tomb? Rescuing the princess?* This is a short description of where our hero is and what's happening. Imagine a starting point for your adventure.
+Scopri perché il tuo personaggio è lì e dove si trova nella storia. *Stai saccheggiando una tomba? Salvando la principessa?* Questa è una breve descrizione di dove si trova il nostro eroe e cosa sta succedendo. Immagina un punto di partenza per l'avventura.
 
-## Begin asking questions.
+## Inizia a fare domande.
 
-To begin play, ask a question that has a **yes** or **no** answer, it is important to keep it simple. *Do I encounter a trap? Are guards present?*
+Per iniziare a giocare, fai una domanda che abbia per risposta **sì** o **no**, è importante mantenerla semplice. *Incontro una trappola? Ci sono delle guardie?*
 
-For each question, roll a d6 and consult the table below. If the hero has an applicable cliché or an advantage, roll 2d6 and choose the best result. If the character has a significant disadvantage, roll 2d6 and use the worst result.
+Per ogni domanda, tira un d6 e consulta la tabella sotto. Se l'eroe ha un cliché o un vantaggio applicabile, tira un secondo d6 e scegli il miglior risultato. Se è presente uno svantaggio significativo, tira 2d6 e usa il risultato peggiore.
 
-1- *No, And*  
-2- *No*  
-3- *No, But*  
-4- *Yes, But*  
-5- *Yes*  
-6- *Yes, And*
+1- *No e*
+2- *No*
+3- *No, ma*
+4- *Sì, ma*
+5- *Sì*
+6- *Sì e*
 
-## And & But Results.
+## I risultati "e" & "ma".
 
-*And* amplifies, while *But* mitigates. *No, And* means things went really bad. *No, But* softens the blow a bit. *Yes, But* is successful but with a drawback. *Yes, And* is all kinds of awesome.
+*E* amplifica, mentre *Ma* attenua. *No, e* significa che le cose sono andate davvero male. *No, ma* ammorbidisce un po' il colpo. *Sì, ma* ha successo ma con uno svantaggio. *Sì, e* è qualcosa di fantastico.
 
-1- Nothing significant happens  
-2- An obstacle, something to overcome  
-3- A unique feature or situation  
-4- A unique feature or situation  
-5- NPC (1-3 friendly, 4-5 neutral, 6 not friendly)  
-6- Monster (1 friendly, 2-3 neutral, 4-6 not friendly)
+1- Niente di significativo
+2- Un ostacolo, qualcosa da superare
+3- Una caratteristica o situazione unica
+4- Una caratteristica o situazione unica
+5- PNG (1-3 amichevole, 4-5 neutrale, 6 non amichevole)
+6- Mostro (1 amichevole, 2-3 neutrale, 4-6 non amichevole)
 
-*You can use the above method to determine the outcome of encounters, or use the optional rules that follow to expand the depth of the system.*
+*È possibile utilizzare il metodo sopra per determinare il risultato degli incontri o utilizzare la regola opzionale di seguito per espandere la profondità del sistema.*
 
-## Contests.
+## Prove.
 
-When your character comes into dangerous or risky situations, Determine Difficulty (either via narratory license or dice, *see below*). Use dice equal to Body, Mind, or Soul for the contest, adding one die to the roll if a cliché is applicable. If *ONE* die rolls equal to the Difficulty or higher, you succeed!
+Quando il tuo personaggio entra in situazioni pericolose o rischiose, determina la Difficoltà (tramite licenza narrativa o dadi, *vedi sotto*). Usa dadi uguali a Fisico, Mente o Anima per la prova. Se è applicabile un cliché, aggiungi un dado al tiro. Se UN dado eguaglia o supera la Difficoltà, hai successo!
 
-## Determine Difficulty.
+## Determina la difficoltà.
 
-To randomly determine difficulty of a task, roll a d6:
+Determina casualmente la difficoltà di un compito, tira un d6:
 
-1- Automatic  
-2- Simple  
-3- Easy  
-4- Average  
-5- Tricky  
-6- Hard
+1- Automatico
+2- Semplice
+3- Facile
+4- Media
+5- Ingannevole
+6- Difficile
 
-## Resolving Combat.
+## Risolvere il combattimento.
 
-Resolve combat as if two characters were facing off using the stats listed for monsters, where the high roll wins the round/combat. Ties are a deadlock or draw with no damage. All attacks cause one damage.
+Risolvi il combattimento come se due personaggi si affrontassero usando le statistiche elencate per i mostri, dove il risultato più alto vince il round/combattimento. I pareggi sono una situazione di stallo o pareggio senza danni. Tutti gli attacchi causano un danno.
 
-## Taking/Causing/Healing Damage.
+## Subire/causare/guarire danni.
 
-If you succeed at a combat check, subtract one HP from the enemy, if you fail, subtract one of your HPs. You may reduce the Body score instead of HP and any subsequent Body contests use the current score. When Body or HP reach zero, you are dead. Heal HP at a rate one per eight hours of rest, one Body at a rate of one per day.
+Se hai successo in un combattimento, sottrai un PF dal nemico, se fallisci sottrai uno dei tuoi PF. Puoi ridurre il punteggio di Fisico invece di PF ed eventuali prove di Fisico successive utilizzano il punteggio corrente. Quando Fisico o i PF raggiungono lo zero, sei morto. Guarisci i PF al ritmo di uno ogni otto ore di riposo, i punti di Fisico al ritmo di uno al giorno.
 
-## Example clichés.
+## Esempi di cliché.
 
-*The veteran warrior, Nimble-fingered rogue, Sneaky little bastard, Spellbinder of the elemental flames, Priest of Assaradin, Sticky fingers*
+*Il guerriero veterano, Ladro dalle dita agili, Piccolo Stronzo Subdolo, Incantatore delle fiamme elementali, Chierico di Assaradin, Dita Appiccicose*
 
-## Sample Characters:
+## Personaggi di esempio:
 
-**Alessandor the Blade** B:2 M:1 S:1 HP:2 *Cleric of Pastorin, Master of the Duel*  
-**Byran Spellslinger** B:1 M:3 S:2 HP:1 *Mage of the Forgotten Water Splendids*
+**Alessandor la Lama** F: 2 M: 1 A: 1 PF: 2 *Chierico di Pastorin, Guaritore dei feriti*
+**Byran l'Incantatore** F: 1 M: 3 A: 2 PF: 1 *Mago delle Splendide Acque Dimenticate*
 
-## Sample Monsters:
+## Mostri di esempio:
+**Goblin** F: 1 M: 1 A: 1 PF: 1 *Piccolo subdolo bastardo*
+**Owlbear** F: 3 M: 1 A: 1 PF: 3 *Afferratore, Berserk*
+**Seppioide** F: 2 M: 3 A: 3 PF: 2 *Controllo mentale, Magia illusoria, Follia*
+**Zombi** F: 1 M: 1 A: 1 PF: 1 *Silenzioso, Infezione*
 
-**Goblin** B:1 M:1 S:1 HP:1 *Sneaky little bastard*  
-**Owlbear** B:3 M:1 S:1 HP:3 *Grapple, Berserk*  
-**Squidhead** B:2 M:3 S:3 HP:2 *Mind control, Illusion magic, Madness*  
-**Zombie** B:1 M:1 S:1 HP:1 *Silent, Infection*
-
-*by matt jackson - [msjx.org](http://msjx.org)  
-licensed under Creative Commons Attribution 4.0 inspired by [tinysolitarysoldiers.blogspot.com](http://tinysolitarysoldiers.blogspot.com) & others many thanks to Carsten, Bruno, Bryan, Josh + Noah*
+*di matt jackson - [msjx.org](http://msjx.org) rilasciato sotto Licenza internazionale Creative Commons Attribution 4.0 ispirata a [http://tinysolitarysoldiers.blogspot.com](http://tinysolitarysoldiers.blogspot.com) e altri. Sentiti ringraziamenti a Carsten, Bruno, Bryan Josh + Noah. Traduzione di [Roberto Bisceglie](https://zeruhur.space)*

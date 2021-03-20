@@ -1,79 +1,78 @@
 # so1um 0.6
 
-## Create your hero.
+# Crea il tuo eroe.
 
-Roll 3d6 once each for **Body** (*physical prowess & health*), **Mind** (*mental capacity & intelligence*), **Spirit** (*spunk & willpower*). Count dice with even #s for each stat. If no even numbers are rolled, the stat equals 1. For Hit Points roll 2d6, count the evens and add this to Body score. Heroes begin with one cliché, roll 2d6, and gain one cliché for each even number rolled. If you wish, determine a past, looks, quirks, etc. Be creative and stuff.
+Tira 3d6 una volta per ciascun **Fisico** (*abilità fisiche e salute*), **Mente** (*capacità mentale e intelligenza*), **Spirito** (*audacia e forza di volontà*). Conta i dadi con numeri pari per ogni statistica. Se non vengono tirati i pari, la statistica è uguale a 1. Per i Punti Ferita tira 2d6, conta i pari e somma questo valore al punteggio del Fisico. Gli eroi iniziano con un cliché, tira 2d6 e ottieni un cliché per ogni numero pari tirato. Se lo desideri, determina un passato, l'aspetto, le stranezze, ecc. Sii creativo e cose del genere.
 
-## Determine goals & the first scene.
+## Determina gli obiettivi e imposta la prima scena.
 
-Figure out why your character is there and where they are in their story. This is a short description of where our hero is and what's happening. Imagine a starting point for your adventure. Are you *stealing space station plans? Are you plundering a tomb?*
+Scopri perché il tuo personaggio è lì e dove si trova nella propria storia. Questa è una breve descrizione di dove si trova il nostro eroe e cosa sta succedendo. Immagina un punto di partenza per la tua avventura. Stai *rubando i piani della stazione spaziale? Saccheggi una tomba?*
 
-## Begin asking questions.
+## Inizia a fare domande.
 
-To begin play, ask a question that has a **Yes** or **No** answer, it is important to keep it simple. *Are guards present? Do I encounter a trap?* For each question, roll a d6 and consult the table below. If the hero has an applicable cliché or an advantage, roll 2d6 and pick the best result. If the character has a significant disadvantage, roll 2d6 and use the worst result.
+Per iniziare a giocare, fai una domanda che abbia per risposta **Sì** o **No**, è importante mantenerla semplice. *Ci sono guardie? Incontro una trappola?*. Per ogni domanda, tira un d6 e consulta la tabella sotto. Se l'eroe ha un cliché o un vantaggio applicabile, tira 2d6 e prendi il risultato migliore. Se il personaggio ha uno svantaggio significato, tira 2d6 e usa il risultato peggiore.
 
-1- *No, And*  
-2- *No*  
-3- *No, But*  
-4- *Yes, But*  
-5- *Yes*  
-6- *Yes, And*
+1- *No e*
+2- *No*
+3- *No, ma*
+4- *Sì, ma*
+5- *Sì*
+6- *Sì e*
 
-## And & But Results.
+## I risultati "e" & "ma".
 
-*And* amplifies, while *But* mitigates. *No, And* means things went really bad. *No, But* softens the blow a bit. *Yes, But* is successful but with a drawback. *Yes, And* is all kinds of awesome.
+*E* amplifica, mentre *Ma* attenua. *No, e* significa che le cose sono andate davvero male. *No, ma* ammorbidisce un po' il colpo. *Sì, ma* ha successo ma con uno svantaggio. *Sì, e* è qualcosa di fantastico.
 
-1- Nothing significant happens  
-2- An obstacle or something that aids the hero  
-3- A unique feature or situation  
-4- A unique feature or situation  
-5- NPC (1-3 friendly, 4-5 neutral, 6 not friendly)  
-6- Monster (1 friendly, 2-3 neutral, 4-6 not friendly)
+1- Niente di significativo
+2- Un ostacolo o qualcosa da superare
+3- Una caratteristica o situazione unica
+4- Una caratteristica o situazione unica
+5- PNG (1-3 amichevole, 4-5 neutrale, 6 non amichevole)
+6- Mostro (1 amichevole, 2-3 neutrale, 4-6 non amichevole)
 
-## Contests.
+## Prove.
 
-When your character comes into dangerous or risky situations, determine Difficulty (either via narratory license or dice, *see below*). Use dice equal to Body, Mind, or Spirit for the contest, adding one die to the roll if a cliché is applicable. If *ONE* die rolls equal to the Difficulty or higher, you succeed!
+Quando il tuo personaggio entra in situazioni pericolose o rischiose, determina la Difficoltà (tramite licenza narrativa o dadi, vedi *sotto*). Usa dadi uguali a Fisico, Mente o Spirito per la prova. Se è applicabile un cliché, aggiungi un dado al tiro. Se UN dado eguaglia o supera la Difficoltà, hai successo!
 
-## Determine Difficulty.
+## Determina la difficoltà.
 
-To randomly determine difficulty of a task, roll a d6:
+Determina casualmente la difficoltà di un compito, tira un d6:
 
-1- *Automatic*  
-2- *Simple*  
-3- *Easy*  
-4- *Average*  
-5- *Tricky*  
-6- *Hard*
+1- *Automatico*
+2- *Semplice*
+3- *Facile*
+4- *Media*
+5- *Ingannevole*
+6- *Difficile*
 
-## Resolving Combat.
+## Risolvere il combattimento.
 
-Resolve combat just like contests with each opponent making a single attack. Instead of beating a difficulty, each side rolls dice equal to applicable stats (adding one die if a cliché applies) and then compare dice rolls. The **HIGH** roll wins. If the die rolls are tie, the attack is a draw and no damage is caused.
+Risolvi il combattimento proprio come le prove con ogni avversario che effettua un singolo attacco. Invece di superare una difficoltà, ciascuna parte tira un numero di dadi pari alle statistiche applicabili (aggiungendo un dado se si applica un cliché) e poi confronta i tiri dei dadi. Il tiro **ALTO** vince. Se i tiri di dado sono pari, l'attacco è un pareggio e non viene causato alcun danno.
 
-## Taking/Causing/Healing Damage.
+## Subire/causare/guarire danni.
 
-If you succeed at a combat check, subtract one HP from the enemy. When taking damage, you may reduce the Body score instead of HP. Any subsequent Body contests use the current score. When Body or HP reach zero, death occurs. Heal HP at a rate one per eight hours of rest, one Body at a rate of one per day.
+Se hai successo in un combattimento, sottrai un PF dal nemico. Quando si subiscono danni, puoi ridurre il punteggio di Fisico invece di PF. Eventuali prove di Fisico successive utilizzano il punteggio corrente. Quando Fisico o i PF raggiungono lo zero, la morte sopraggiunge. Guarisci i PF al ritmo di uno ogni otto ore di riposo, i punti di Fisico al ritmo di uno al giorno.
 
-## Gear and Loot
+## Equipaggiamento e bottino
 
-Useful gear allows you to reroll one die once when performing a task for which the piece of gear was intended. Dice are then compared again to determine the outcome of the contest. Characters can only benefit from one piece of gear, weapon, or armor per check and are only allowed to reroll one die once per check. Note that in combat it is assumed all are properly armed/armored and this rule would not be applicable.
+L'equipaggiamento utile ti consente di ripetere il tiro di un dado una volta quando esegui un compito per il quale il pezzo di equipaggiamento era destinato. I dadi vengono quindi confrontati nuovamente per determinare il risultato della prova. I personaggi possono beneficiare di un solo pezzo di equipaggiamento, arma o armatura per prova e possono ritirare solo un dado una volta per prova. Nota che in combattimento si presume che tutti siano adeguatamente armati/corazzati e questa regola non sarebbe applicabile.
 
-## Example clichés.
+## Esempi di cliché.
 
-*The veteran warrior, Nimble-fingered rogue, Sneaky little bastard, Spellbinder of the elemental flames, Priest of Asaradin, Sticky fingers, Smuggler with a heart of gold*
+*Il guerriero veterano, Ladro dalle dita agili, Piccolo Stronzo Subdolo, Incantatore delle fiamme elementali, Prete di Assaradin, Dita Appiccicose, Furfante dal cuore d'oro*
 
-## Sample Characters:
+## Personaggi di esempio:
 
-**Alessandor the Blade** B:2 M:1 S:1 HP:2 *Cleric of Pastorin, Master of the Duel*  
-**Byran Spellslinger** B:1 M:3 S:2 HP:1 *Mage of the Forgotten Water Splendids, Adaptus of the Gilded Staff of Dur*
+**Alessandor la Lama** F: 2 M: 1 V: 1 PF: 2 *Chierico di Pastorin, Maestro del Duello*
+**Byran l'Incantatore** F: 1 M: 3 V: 2 PF: 1 *Mago delle Splendide Acque Dimenticate, Adepto del Bastone Dorato di Dur*
 
-## Sample Monsters:
+## Mostri di esempio:
 
-**Goblin** B:1 M:1 S:2 HP:1 *Sneaky little bastard*  
-**Beholder** B:2 M:4 S:3 HP:4 *Spell-casting eyeballs*  
-**Owlbear** B:4 M:1 S:3 HP:5 *Grapple, Berserk*  
-**Squidhead** B:2 M:5 S:4 HP:6 *Mind control, Illusion magic, Madness*  
-**Troll** B:4 M:1 S:2 HP:4 *Regeneration*  
-**Zombie** B:1 M:1 S:1 HP:1 *Silent, Infection*
+**Goblin** F: 1 M: 1 S: 2 PF: 1 *Piccolo subdolo bastardo*
+**Beholder** F:2 M:4 S:3 HP:4 *Occhi lancia incantesimi*  
+**Owlbear** F: 4 M: 1 S: 3 PF: 6 *Afferratore, Berserk*
+**Seppioide** F: 2 M: 4 S: 3 PF: 6 *Controllo mentale, Magia illusoria, Follia*
+**Troll** F:4 M:1 S:2 HP:4 *Rigenerazione*  
+**Zombi** F: 1 M: 1 S: 1 PF: 1 *Silenzioso, Infezione*
 
-*by matt jackson - [msjx.org](http://msjx.org)  
-licensed under Creative Commons Attribution 4.0 inspired by [tinysolitarysoldiers.blogspot.com](http://tinysolitarysoldiers.blogspot.com) & others many thanks to Carsten, Bruno, Bryan, Josh + Noah*
+*di matt jackson - [msjx.org](http://msjx.org) rilasciato sotto Licenza internazionale Creative Commons Attribution 4.0 ispirata a [http://tinysolitarysoldiers.blogspot.com](http://tinysolitarysoldiers.blogspot.com) e altri. Sentiti ringraziamenti a Carsten, Bruno, Bryan Josh + Noah. Traduzione di [Roberto Bisceglie](https://zeruhur.space)*

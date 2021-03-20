@@ -1,78 +1,76 @@
-# So1um 0.2
+# so1um 0.2
 
-## Create your hero.
+# Crea il tuo eroe.
 
-Roll 3d6 each for Body, Mind, Will. Each starts at 1 and each even number rolled is a +1. Hit Points equal the Body score. Characters begin play with one cliché, roll 2d6, and gain one cliché for each even number rolled. If you wish, flesh out a background, looks, quirks, etc. Be creative and stuff.
+Tira 3d6 ciascuno per Fisico, Mente, Volontà. Ciascuno parte da 1 e ogni numero pari ottenuto è un +1. I Punti Ferita sono uguali al punteggio del Fisico. I personaggi iniziano a giocare con un cliché, tirano 2d6 e ottengono un cliché per ogni numero pari ottenuto. Se lo desideri, arricchisci con un pregresso, l'aspetto, le stranezze, ecc. Sii creativo e cose del genere.
 
-## Determine goals & the first scene.
+## Determina gli obiettivi e imposta la prima scena.
 
-Figure out why your character is there and where in the story they are. *Are you plundering a tomb? Rescuing the princess?* This is a short description of where our hero is and what's happening. Imagine a starting point for your adventure.
+Scopri perché il tuo personaggio è lì e dove si trova nella storia. *Stai saccheggiando una tomba? Salvando la principessa?* Questa è una breve descrizione di dove si trova il nostro eroe e cosa sta succedendo. Immagina un punto di partenza per l'avventura.
 
-## Begin asking questions.
+## Inizia a fare domande.
 
-To begin play, ask a question that has a yes or no answer, it is important to keep it simple. *Do I encounter a trap? Are guards present?*
+Per iniziare a giocare, fai una domanda che abbia per risposta sì o no, è importante mantenerla semplice. *Incontro una trappola? Ci sono delle guardie?*
 
-For each question, roll a d6 and consult the table below. If the hero has an applicable cliché or an advantage, roll 2d6 and choose the result. If the character has a significant disadvantage, roll 2d6 and use the lowest result.
+Per ogni domanda, tira un d6 e consulta la tabella sotto. Se l'eroe ha un cliché o un vantaggio applicabile, tira un secondo d6 e scegli il risultato. Se è presente uno svantaggio significativo, tira 2d6 e usa il risultato più basso.
 
-1- No, *But*  
-2- No  
-3- No, *And*  
-4- Yes, *But*  
-5- Yes  
-6- Yes, *And*
+1- No *e*
+2- No
+3- No, *ma*
+4- Sì, *ma*
+5- Sì
+6- Sì *e*
 
-## And & But Results.
+## I risultati "e" & "ma".
 
-*And* means better than expected, a good thing, *But* means there is worse or a drawback. *And* can also mean a good interpretation on the roll below, *But* can be a negative interpretation on the roll below.
+"E" significa meglio di quanto ti aspettassi - una cosa positiva, *Ma* significa che è peggio o c'è uno svantaggio. "E" può anche significare un'interpretazione positiva sul tiro seguente, "Ma" può essere un'interpretazione negativa sul tiro seguente.
 
-1- Nothing significant happens  
-2- An obstacle, something to overcome  
-3- A unique feature or situation  
-4- A unique feature or situation  
-5- NPC (1-3 friendly, 4-5 neutral, 6 not friendly)  
-6- Monster (1 friendly, 2-3 neutral, 4-6 not friendly)
+1- Niente di significativo
+2- Un ostacolo, qualcosa da superare
+3- Una caratteristica o situazione unica
+4- Una caratteristica o situazione unica
+5- PNG (1-3 amichevole, 4-5 neutrale, 6 non amichevole)
+6- Mostro (1 amichevole, 2-3 neutrale, 4-6 non amichevole)
 
-*You can use the above method to determine the outcome of encounters, or use the optional rules that follow to expand the depth of the system.*
+*È possibile utilizzare il metodo sopra per determinare il risultato degli incontri o utilizzare la regola opzionale di seguito per espandere la profondità del sistema.*
 
-## Contests.
+## Prove. (regola opz.)
 
-When your character comes into dangerous or risky situations Determine Difficulty (either via narratory license or dice, see below). Use dice equal to Body, Mind, or Will for the contest, adding one die to the roll if a cliché is applicable. If *ONE* die rolls the Difficulty or higher, you succeed!
+Quando il tuo personaggio entra in situazioni pericolose o rischiose, determina la Difficoltà (tramite licenza narrativa o dadi, *vedi sotto*). Usa dadi uguali a Fisico, Mente o Volontà per la prova. Se è applicabile un cliché, aggiungi un dado al tiro. Se UN dado eguaglia o supera la Difficoltà, hai successo!
 
-## Determine Difficulty.
+## Determina la difficoltà.
 
-To randomly determine difficulty of a task, roll a d6:
+Determina casualmente la difficoltà di un compito, tira un d6:
 
-1- Automatic  
-2- Simple  
-3- Easy  
-4- Average  
-5- Tricky  
-6- Hard
+1- Automatico
+2- Semplice
+3- Facile
+4- Media
+5- Ingannevole
+6- Difficile
 
-## Resolving Combat.
+## Risolvere il combattimento.
 
-Resolve combat as if two characters were facing off using the stats listed for monsters, where the high roll wins the round/combat. All attacks cause one damage, tick off HPs as damage is inflicted.
+Risolvi il combattimento come se due personaggi si affrontassero usando le statistiche elencate per i mostri, dove il risultato più alto vince il round/combattimento. Tutti gli attacchi causano un danno, scala i PF quando il danno viene inflitto.
 
-## Taking/Causing Damage.
+## Subire/causare danni.
 
-If you succeed in a contest, subtract one HP from the enemy, if you fail, subtract one of your HPs. When you reach zero, you are dead, dead, dead...
+Se hai successo in una competizione, sottrai un PF dal nemico, se fallisci sottrai uno dei tuoi PF. Quando raggiungi lo zero, sei morto, morto, morto...
 
-## Example clichés.
+## Esempi di cliché.
 
-*The bravest warrior, Force-Aware monk, Nibble- fingered rogue, Sneaky little bastard, I can feel the magic, Spellbinder of the elemental flames, Cleric of the Light of Assaradin, Sticky fingers*
+*Il Guerriero più Coraggioso, Monaco Cosciente della Forza, Ladro Tuttofare, Piccolo Stronzo Subdolo, Posso sentire la magia, Speziale del Re, Incantatore delle fiamme elementali, Chierico della Luce Bianca di Assaradin, Dita Appiccicose*
 
-## Sample Characters:
+## Personaggi di esempio:
 
-**Alessandor the Blade** B: 2 S:1 W: 1 HP: 2 *Cleric of Pastorin, Master of the Duel*  
-**Byran Spellslinger** B: 1 S: 3 W: 2 HP: 1 *Mage of the Forgotten Water Splendids*
+**Alessandor la Lama** F: 2 M: 1 V: 1 PF: 2 *Chierico di Pastorin, Guaritore dei feriti*
+**Byran l'Incantatore** F: 1 M: 3 V: 2 PF: 1 *Mago delle Splendide Acque Dimenticate*
 
-## Sample Monsters:
+## Mostri di esempio:
+**Bulette** F: 4 M: 1 V: 1 PF: 4 *Scavatore, Salto*
+**Goblin** F: 1 M: 1 V: 1 PF: 1 *Piccolo subdolo bastardo*
+**Owlbear** F: 3 M: 1 V: 1 PF: 3 *Afferratore, Berserk*
+**Seppioide** F: 2 M: 3 V: 3 PF: 2 *Controllo mentale, Magia illusoria, Follia*
+**Zombi** F: 1 M: 1 V: 1 PF: 1 *Silenzioso, Infezione*
 
-**Bulette** B: 4 M:1 W: 1 HP: 4 *Digger, Jump*  
-**Gobin** B: 1 M:1 W: 1 HP: 1 *Sneaky little bastard*  
-**Owlbear** B: 3 M:1 W: 1 HP: 3 *Grapple, Berserk*  
-**Squidhead** B:2 M:3 W:3 HP:2 *Mind control, Illusion magic, Madness*  
-**Zombie** B: 1 M:1 W: 1 HP: 1 *Silent, Infection*
-
-*by matt jackson - [msjx.org](http://msjx.org)  
-licensed under Creative Commons Attribution 4.0 inspired by [tinysolitarysoldiers.blogspot.com](http://tinysolitarysoldiers.blogspot.com) & others*
+*di matt jackson - [msjx.org](http://msjx.org) rilasciato sotto Licenza internazionale Creative Commons Attribution 4.0 ispirata a [http://tinysolitarysoldiers.blogspot.com](http://tinysolitarysoldiers.blogspot.com) & altri. Traduzione di [Roberto Bisceglie](https://zeruhur.space)*
