@@ -2,7 +2,7 @@
 
 # Crea il tuo eroe.
 
-Tira 3d6 una volta per ciascun **Fisico** (*abilità fisiche e salute*), **Mente** (*capacità mentale e intelligenza*), **Spirito** (*audacia e forza di volontà*). Conta i dadi con numeri pari per ogni statistica. Se non vengono tirati i pari, la statistica è uguale a 1. Per i Punti Ferita tira 2d6, conta i pari e somma questo valore al punteggio del Fisico. Gli eroi iniziano con un cliché, tira 2d6 e ottieni un cliché per ogni numero pari tirato. Se lo desideri, determina un passato, l'aspetto, le stranezze, ecc. Sii creativo e cose del genere.
+Tira 3d6 una volta per ciascuno: **Fisico** (*abilità fisiche e salute*), **Mente** (*capacità mentale e intelligenza*), **Spirito** (*audacia e forza di volontà*). Conta i dadi con numeri pari per ogni statistica. Se non vengono tirati i pari, la statistica è uguale a 1. Per i Punti Ferita tira 2d6, conta i pari e somma questo valore al punteggio del Fisico. Gli eroi iniziano con un cliché, tira 2d6 e ottieni un cliché per ogni numero pari tirato. Se lo desideri, determina un passato, l'aspetto, le stranezze, ecc. Sii creativo e cose del genere.
 
 ## Determina gli obiettivi e imposta la prima scena.
 
