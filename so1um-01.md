@@ -6,7 +6,7 @@ I sistemi complessi in genere si impantanano nei valori numerici, quindi useremo
 
 ## Determina gli obiettivi e imposta la prima scena.
 
-Scopri perché il tuo personaggio è lì e dove si trova nella storia. *Stai saccheggiando una tomba? Salvando la principessa?* Questa è una breve descrizione di dove si trova il nostro eroe e cosa sta succedendo. Immagina un punto di partenza per l'avventura.
+Scopri perché il tuo personaggio è lì e a che punto sta nella storia. *Stai saccheggiando una tomba? Salvando la principessa?* Questo è una breve descrizione di dove si trova il nostro eroe e cosa sta succedendo. Immagina un punto di partenza per l'avventura.
 
 ## Inizia a fare domande.
 
@@ -36,7 +36,7 @@ Per ogni domanda, tira un d6 e leggi il risultato sotto. Se l'eroe ha un cliché
 
 ## Prove. (regola opz.)
 
-Quando il tuo personaggio entra in situazioni pericolose o rischiose, determina la difficoltà (tramite licenza narrativa o dadi, *vedi sotto*). Usa dadi uguali a Fisico, Mente o Volontà per la Prova. Se è applicabile un cliché, aggiungi un dado al tiro. Se UN dado eguaglia o supera la Difficoltà, hai successo!
+Quando il tuo personaggio entra in situazioni pericolose o rischiose, determina la difficoltà (tramite licenza narrativa o dadi, *vedi sotto*). Usa dadi in numero pari a Fisico, Mente o Volontà per la Prova. Se è applicabile un cliché, aggiungi un dado al tiro. Se UN dado eguaglia o supera la Difficoltà, hai successo!
 
 ## Determina la difficoltà.
 

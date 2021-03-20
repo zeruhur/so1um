@@ -6,7 +6,7 @@ Tira 3d6 una volta per ciascuno: **Fisico** (*abilità fisiche e salute*), **Men
 
 ## Determina gli obiettivi e imposta la prima scena.
 
-Scopri perché il tuo personaggio è lì e dove si trova nella propria storia. Questa è una breve descrizione di dove si trova il nostro eroe e cosa sta succedendo. Immagina un punto di partenza per la tua avventura. Stai *rubando i piani della stazione spaziale? Saccheggi una tomba?*
+Scopri perché il tuo personaggio è lì e a che punto sta nella propria storia. Questo è una breve descrizione di dove si trova il nostro eroe e cosa sta succedendo. Immagina un punto di partenza per la tua avventura. Stai *rubando i piani della stazione spaziale? Saccheggi una tomba?*
 
 ## Inizia a fare domande.
 
@@ -32,7 +32,7 @@ Per iniziare a giocare, fai una domanda che abbia per risposta **Sì** o **No**,
 
 ## Prove.
 
-Quando il tuo personaggio entra in situazioni pericolose o rischiose, determina la Difficoltà (tramite licenza narrativa o dadi, vedi *sotto*). Usa dadi uguali a Fisico, Mente o Spirito per la prova. Se è applicabile un cliché, aggiungi un dado al tiro. Se UN dado eguaglia o supera la Difficoltà, hai successo!
+Quando il tuo personaggio entra in situazioni pericolose o rischiose, determina la Difficoltà (tramite licenza narrativa o dadi, vedi *sotto*). Usa dadi in numero pari a Fisico, Mente o Spirito per la prova. Se è applicabile un cliché, aggiungi un dado al tiro. Se UN dado eguaglia o supera la Difficoltà, hai successo!
 
 ## Determina la difficoltà.
 
@@ -55,7 +55,7 @@ Se hai successo in un combattimento, sottrai un PF dal nemico. Quando si subisco
 
 ## Equipaggiamento e bottino
 
-L'equipaggiamento utile ti consente di ripetere il tiro di un dado una volta quando esegui un compito per il quale il pezzo di equipaggiamento era destinato. I dadi vengono quindi confrontati nuovamente per determinare il risultato della prova. I personaggi possono beneficiare di un solo pezzo di equipaggiamento, arma o armatura per prova e possono ritirare solo un dado una volta per prova. Nota che in combattimento si presume che tutti siano adeguatamente armati/corazzati e questa regola non sarebbe applicabile.
+L'equipaggiamento utile ti consente di tirare di nuovo una volta un dado quando esegui un compito per il quale l'oggetto era destinato. I dadi vengono quindi confrontati nuovamente per determinare il risultato della prova. I personaggi possono beneficiare di un solo oggetto, arma o armatura per prova e possono ritirare solo un dado una volta per prova. Nota che in combattimento si presume che tutti siano adeguatamente armati/corazzati e questa regola non sarà applicabile.
 
 ## Esempi di cliché.
 
