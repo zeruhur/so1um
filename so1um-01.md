@@ -14,23 +14,23 @@ Fai una domanda che abbia per risposta sì o no, è importante mantenerla sempli
 
 Per ogni domanda, tira un d6 e leggi il risultato sotto. Se l'eroe ha un cliché o un vantaggio applicabile, tira un secondo d6 e scegli il risultato. Se è presente uno svantaggio significativo, tira 2d6 e usa il risultato più basso.
 
-1- No *e*
-2- No
-3- No, *ma*
-4- Sì, *ma*
-5- Sì
-6- Sì *e*
+1- No *e*  
+2- No  
+3- No, *ma*  
+4- Sì, *ma*  
+5- Sì  
+6- Sì *e*  
 
 ## I risultati e & ma.
 
 "E" significa più di quanto ti aspettassi - una cosa positiva, "Ma" significa che c'è un effetto limitato o uno svantaggio. "E" può anche significare un'interpretazione positiva sul tiro seguente, "Ma" può essere un'interpretazione negativa sul tiro seguente.
 
-1- Niente di significativo
-2- Trappola o qualche ostacolo
-3- Caratteristica unica, utile
-4- Caratteristica unica, dolorosa
-5- PNG (1-3 amichevole, 4-5 neutrale, 6 non amichevole)
-6- Mostro (1 amichevole, 2-3 neutrale, 4-6 non amichevole)
+1- Niente di significativo  
+2- Trappola o qualche ostacolo  
+3- Caratteristica unica, utile  
+4- Caratteristica unica, dolorosa  
+5- PNG (1-3 amichevole, 4-5 neutrale, 6 non amichevole)  
+6- Mostro (1 amichevole, 2-3 neutrale, 4-6 non amichevole)  
 
 *È possibile utilizzare il metodo sopra per determinare il risultato degli incontri o utilizzare la regola opzionale di seguito per espandere la profondità del sistema.*
 
@@ -42,12 +42,12 @@ Quando il tuo personaggio entra in situazioni pericolose o rischiose, determina 
 
 Determina casualmente la difficoltà di un compito, tira un d6:
 
-1- Semplice
-2- Facile
-3- Facile
-4- Ingannevole
-5- Ingannevole
-6- Difficile
+1- Semplice  
+2- Facile  
+3- Facile  
+4- Ingannevole  
+5- Ingannevole  
+6- Difficile  
 
 ## Subire/causare danni.
 
@@ -59,7 +59,7 @@ Se hai successo in una prova, sottrai un PF dal nemico, se fallisci, sottrai uno
 
 ## Personaggi di esempio:
 
-**Alessandor la Lama** F: 2 M: 1 V: 1 PF: 2 *Chierico di Pastorin, Guaritore dei feriti*
+**Alessandor la Lama** F: 2 M: 1 V: 1 PF: 2 *Chierico di Pastorin, Guaritore dei feriti*  
 **Byran l'Incantatore** F: 1 M: 3 V: 2 PF: 1 *Mago delle Splendide Acque Dimenticate*
 
 di matt jackson - [msjx.org](http://msjx.org)

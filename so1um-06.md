@@ -12,23 +12,23 @@ Scopri perché il tuo personaggio è lì e dove si trova nella propria storia. Q
 
 Per iniziare a giocare, fai una domanda che abbia per risposta **Sì** o **No**, è importante mantenerla semplice. *Ci sono guardie? Incontro una trappola?*. Per ogni domanda, tira un d6 e consulta la tabella sotto. Se l'eroe ha un cliché o un vantaggio applicabile, tira 2d6 e prendi il risultato migliore. Se il personaggio ha uno svantaggio significato, tira 2d6 e usa il risultato peggiore.
 
-1- *No e*
-2- *No*
-3- *No, ma*
-4- *Sì, ma*
-5- *Sì*
-6- *Sì e*
+1- *No e*  
+2- *No*  
+3- *No, ma*  
+4- *Sì, ma*  
+5- *Sì*  
+6- *Sì e*  
 
 ## I risultati "e" & "ma".
 
 *E* amplifica, mentre *Ma* attenua. *No, e* significa che le cose sono andate davvero male. *No, ma* ammorbidisce un po' il colpo. *Sì, ma* ha successo ma con uno svantaggio. *Sì, e* è qualcosa di fantastico.
 
-1- Niente di significativo
-2- Un ostacolo o qualcosa da superare
-3- Una caratteristica o situazione unica
-4- Una caratteristica o situazione unica
-5- PNG (1-3 amichevole, 4-5 neutrale, 6 non amichevole)
-6- Mostro (1 amichevole, 2-3 neutrale, 4-6 non amichevole)
+1- Niente di significativo  
+2- Un ostacolo o qualcosa da superare  
+3- Una caratteristica o situazione unica  
+4- Una caratteristica o situazione unica  
+5- PNG (1-3 amichevole, 4-5 neutrale, 6 non amichevole)  
+6- Mostro (1 amichevole, 2-3 neutrale, 4-6 non amichevole)  
 
 ## Prove.
 
@@ -38,12 +38,12 @@ Quando il tuo personaggio entra in situazioni pericolose o rischiose, determina 
 
 Determina casualmente la difficoltà di un compito, tira un d6:
 
-1- *Automatico*
-2- *Semplice*
-3- *Facile*
-4- *Media*
-5- *Ingannevole*
-6- *Difficile*
+1- *Automatico*  
+2- *Semplice*  
+3- *Facile*  
+4- *Media*  
+5- *Ingannevole*  
+6- *Difficile*  
 
 ## Risolvere il combattimento.
 
@@ -63,15 +63,15 @@ L'equipaggiamento utile ti consente di ripetere il tiro di un dado una volta qua
 
 ## Personaggi di esempio:
 
-**Alessandor la Lama** F: 2 M: 1 V: 1 PF: 2 *Chierico di Pastorin, Maestro del Duello*
-**Byran l'Incantatore** F: 1 M: 3 V: 2 PF: 1 *Mago delle Splendide Acque Dimenticate, Adepto del Bastone Dorato di Dur*
+**Alessandor la Lama** F: 2 M: 1 V: 1 PF: 2 *Chierico di Pastorin, Maestro del Duello*  
+**Byran l'Incantatore** F: 1 M: 3 V: 2 PF: 1 *Mago delle Splendide Acque Dimenticate, Adepto del Bastone Dorato di Dur*  
 
 ## Mostri di esempio:
 
-**Goblin** F: 1 M: 1 S: 2 PF: 1 *Piccolo subdolo bastardo*
+**Goblin** F: 1 M: 1 S: 2 PF: 1 *Piccolo subdolo bastardo*  
 **Beholder** F:2 M:4 S:3 HP:4 *Occhi lancia incantesimi*  
-**Owlbear** F: 4 M: 1 S: 3 PF: 6 *Afferratore, Berserk*
-**Seppioide** F: 2 M: 4 S: 3 PF: 6 *Controllo mentale, Magia illusoria, Follia*
+**Owlbear** F: 4 M: 1 S: 3 PF: 6 *Afferratore, Berserk*  
+**Seppioide** F: 2 M: 4 S: 3 PF: 6 *Controllo mentale, Magia illusoria, Follia*  
 **Troll** F:4 M:1 S:2 HP:4 *Rigenerazione*  
 **Zombi** F: 1 M: 1 S: 1 PF: 1 *Silenzioso, Infezione*
 

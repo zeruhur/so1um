@@ -14,23 +14,23 @@ Per iniziare a giocare, fai una domanda che abbia per risposta **sì** o **no**,
 
 Per ogni domanda, tira un d6 e consulta la tabella sotto. Se l'eroe ha un cliché o un vantaggio applicabile, tira un secondo d6 e scegli il miglior risultato. Se è presente uno svantaggio significativo, tira 2d6 e usa il risultato peggiore.
 
-1- *No e*
-2- *No*
-3- *No, ma*
-4- *Sì, ma*
-5- *Sì*
-6- *Sì e*
+1- *No e*  
+2- *No*  
+3- *No, ma*  
+4- *Sì, ma*  
+5- *Sì*  
+6- *Sì e*  
 
 ## I risultati "e" & "ma".
 
 *E* amplifica, mentre *Ma* attenua. *No, e* significa che le cose sono andate davvero male. *No, ma* ammorbidisce un po' il colpo. *Sì, ma* ha successo ma con uno svantaggio. *Sì, e* è qualcosa di fantastico.
 
-1- Niente di significativo
-2- Un ostacolo, qualcosa da superare
-3- Una caratteristica o situazione unica
-4- Una caratteristica o situazione unica
-5- PNG (1-3 amichevole, 4-5 neutrale, 6 non amichevole)
-6- Mostro (1 amichevole, 2-3 neutrale, 4-6 non amichevole)
+1- Niente di significativo  
+2- Un ostacolo, qualcosa da superare  
+3- Una caratteristica o situazione unica  
+4- Una caratteristica o situazione unica  
+5- PNG (1-3 amichevole, 4-5 neutrale, 6 non amichevole)  
+6- Mostro (1 amichevole, 2-3 neutrale, 4-6 non amichevole)  
 
 *È possibile utilizzare il metodo sopra per determinare il risultato degli incontri o utilizzare la regola opzionale di seguito per espandere la profondità del sistema.*
 
@@ -42,12 +42,12 @@ Quando il tuo personaggio entra in situazioni pericolose o rischiose, determina 
 
 Determina casualmente la difficoltà di un compito, tira un d6:
 
-1- Automatico
-2- Semplice
-3- Facile
-4- Media
-5- Ingannevole
-6- Difficile
+1- Automatico  
+2- Semplice  
+3- Facile  
+4- Media  
+5- Ingannevole  
+6- Difficile  
 
 ## Risolvere il combattimento.
 
@@ -63,13 +63,13 @@ Se hai successo in un combattimento, sottrai un PF dal nemico, se fallisci sottr
 
 ## Personaggi di esempio:
 
-**Alessandor la Lama** F: 2 M: 1 A: 1 PF: 2 *Chierico di Pastorin, Guaritore dei feriti*
-**Byran l'Incantatore** F: 1 M: 3 A: 2 PF: 1 *Mago delle Splendide Acque Dimenticate*
+**Alessandor la Lama** F: 2 M: 1 A: 1 PF: 2 *Chierico di Pastorin, Guaritore dei feriti*  
+**Byran l'Incantatore** F: 1 M: 3 A: 2 PF: 1 *Mago delle Splendide Acque Dimenticate*  
 
 ## Mostri di esempio:
-**Goblin** F: 1 M: 1 A: 1 PF: 1 *Piccolo subdolo bastardo*
-**Owlbear** F: 3 M: 1 A: 1 PF: 3 *Afferratore, Berserk*
-**Seppioide** F: 2 M: 3 A: 3 PF: 2 *Controllo mentale, Magia illusoria, Follia*
-**Zombi** F: 1 M: 1 A: 1 PF: 1 *Silenzioso, Infezione*
+**Goblin** F: 1 M: 1 A: 1 PF: 1 *Piccolo subdolo bastardo*  
+**Owlbear** F: 3 M: 1 A: 1 PF: 3 *Afferratore, Berserk*  
+**Seppioide** F: 2 M: 3 A: 3 PF: 2 *Controllo mentale, Magia illusoria, Follia*  
+**Zombi** F: 1 M: 1 A: 1 PF: 1 *Silenzioso, Infezione*  
 
 *di matt jackson - [msjx.org](http://msjx.org) rilasciato sotto Licenza internazionale Creative Commons Attribution 4.0 ispirata a [http://tinysolitarysoldiers.blogspot.com](http://tinysolitarysoldiers.blogspot.com) e altri. Sentiti ringraziamenti a Carsten, Bruno, Bryan Josh + Noah. Traduzione di [Roberto Bisceglie](https://zeruhur.space)*
