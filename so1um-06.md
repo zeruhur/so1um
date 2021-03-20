@@ -21,7 +21,7 @@ Per iniziare a giocare, fai una domanda che abbia per risposta **Sì** o **No**,
 
 ## I risultati "e" & "ma".
 
-*E* amplifica, mentre *Ma* attenua. *No, e* significa che le cose sono andate davvero male. *No, ma* ammorbidisce un po' il colpo. *Sì, ma* ha successo ma con uno svantaggio. *Sì, e* è qualcosa di fantastico.
+**E** amplifica, mentre **Ma** attenua. **No, e** significa che le cose sono andate davvero male. **No, ma** ammorbidisce un po' il colpo. **Sì, ma** ha successo ma con uno svantaggio. **Sì, e** è qualcosa di fantastico.
 
 1- Niente di significativo  
 2- Un ostacolo o qualcosa da superare  
@@ -75,4 +75,8 @@ L'equipaggiamento utile ti consente di ripetere il tiro di un dado una volta qua
 **Troll** F:4 M:1 S:2 HP:4 *Rigenerazione*  
 **Zombi** F: 1 M: 1 S: 1 PF: 1 *Silenzioso, Infezione*
 
-*di matt jackson - [msjx.org](http://msjx.org) rilasciato sotto Licenza internazionale Creative Commons Attribution 4.0 ispirata a [http://tinysolitarysoldiers.blogspot.com](http://tinysolitarysoldiers.blogspot.com) e altri. Sentiti ringraziamenti a Carsten, Bruno, Bryan Josh + Noah. Traduzione di [Roberto Bisceglie](https://zeruhur.space)*
+*di matt jackson - [msjx.org](http://msjx.org)*  
+*traduzione di [Roberto Bisceglie](https://zeruhur.space)*  
+*rilasciato sotto Licenza internazionale Creative Commons Attribution 4.0*  
+*ispirato a [http://tinysolitarysoldiers.blogspot.com](http://tinysolitarysoldiers.blogspot.com) e altri*  
+*sentiti ringraziamenti a Carsten, Bruno, Bryan Josh + Noah* 
