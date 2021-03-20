@@ -6,25 +6,27 @@ So1um è un Gioco di Ruolo solitario progettato e scritto da [Matt Jackson](http
 
 È pubblicato sotto i termini della [licenza CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-## Versioni disponibili:
+# Ultima versione
+* [So1um (ultima)](so1um.md)
 
-* [So1um v0.1](so1um-01.md)
-* [So1um v0.2](so1um-02.md)
-* [So1um v0.3.6](so1um-03.md)
-* [So1um v0.4](so1um-04.md)
-* [So1um v0.4.5](so1um-045.md)
-* [So1um v0.5](so1um-05.md)
+## Storico versioni disponibili:
+
 * [So1um v0.6](so1um-06.md)
-* [So1um (latest)](so1um.md)
+* [So1um v0.5](so1um-05.md)
+* [So1um v0.4.5](so1um-045.md)
+* [So1um v0.4](so1um-04.md)
+* [So1um v0.3.6](so1um-03.md)
+* [So1um v0.2](so1um-02.md)
+* [So1um v0.1](so1um-01.md)
 
-Puoi anche [scaricare i PDF](pdfs/index.md).
+Puoi anche [scaricare i PDF originali in inglese](pdfs/index.md).
 
 ## Changelog
 
-Puoi accedere al [Changelog di Versione](CHANGELOG.md).
+È disponibile il [Changelog di Versione](CHANGELOG.md).
 
 ## Nota su "so1um 1.0"
 
-La prima versione era erroneamente taggata '1.0', ma è stato assunto che il tag dovesse essere '0.1'.
+La prima versione era erroneamente taggata '1.0', ma si assume che il tag dovesse essere '0.1'.
 
-Repository originali di [brunobord](https://github.com/brunobord). Traduzione di [zeruhur](https://github.com/zeruhur)
+Repository originale di [brunobord](https://github.com/brunobord). Traduzione di [Roberto Bisceglie](https://zeruhur.space)
