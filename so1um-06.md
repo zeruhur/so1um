@@ -63,8 +63,8 @@ L'equipaggiamento utile ti consente di ripetere il tiro di un dado una volta qua
 
 ## Personaggi di esempio:
 
-**Alessandor la Lama** F: 2 M: 1 V: 1 PF: 2 *Chierico di Pastorin, Maestro del Duello*  
-**Byran l'Incantatore** F: 1 M: 3 V: 2 PF: 1 *Mago delle Splendide Acque Dimenticate, Adepto del Bastone Dorato di Dur*  
+**Alessandor la Lama** F: 2 M: 1 S: 1 PF: 2 *Chierico di Pastorin, Maestro del Duello*  
+**Byran l'Incantatore** F: 1 M: 3 S: 2 PF: 1 *Mago delle Splendide Acque Dimenticate, Adepto del Bastone Dorato di Dur*  
 
 ## Mostri di esempio:
 
