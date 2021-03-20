@@ -76,7 +76,7 @@ L'equipaggiamento utile ti consente di ripetere il tiro di un dado una volta qua
 **Zombi** F: 1 M: 1 S: 1 PF: 1 *Silenzioso, Infezione*
 
 *di matt jackson - [msjx.org](http://msjx.org)*  
-*traduzione di [Roberto Bisceglie](https://zeruhur.space)*  
+*traduzione di [roberto bisceglie](https://zeruhur.space)*  
 *rilasciato sotto Licenza internazionale Creative Commons Attribution 4.0*  
 *ispirato a [http://tinysolitarysoldiers.blogspot.com](http://tinysolitarysoldiers.blogspot.com) e altri*  
 *sentiti ringraziamenti a Carsten, Bruno, Bryan Josh + Noah* 

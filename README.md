@@ -8,6 +8,7 @@ So1um è un Gioco di Ruolo solitario progettato e scritto da [Matt Jackson](http
 
 # Ultima versione
 * [So1um (ultima)](so1um.md)
+* [versione stampabile PDF](/pdf/so1um-06.pdf)
 
 ## Storico versioni disponibili:
 
